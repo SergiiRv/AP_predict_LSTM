@@ -8,3 +8,9 @@ Real Neuron Upcoming Activity Prediction based on LSTM seq2sec model
 ## Result of using AutoEncoder+LSTM
 ![HillelPresentation_simple3](https://user-images.githubusercontent.com/8824649/118050616-4933fc80-b388-11eb-9d90-4fbe7949e561.jpg)
 
+## Metrics results
+TEST RESULTS
+{'Test_EV_epoch': 0.7756353616714478,
+ 'test_EV_batch': 0.7840792536735535,
+ 'test_loss_batch': 0.00021588130039162934}
+
